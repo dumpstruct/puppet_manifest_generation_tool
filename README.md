@@ -1,0 +1,1 @@
+# puppet_manifest_generation_tool
